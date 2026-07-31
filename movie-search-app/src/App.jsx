@@ -1,4 +1,4 @@
-g
+
 import Header from "./components/Header";
 import "./App.css";
 import SearchBar from"./components/searchBar";
